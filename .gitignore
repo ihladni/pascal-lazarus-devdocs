@@ -1,0 +1,25 @@
+# compiler generated files
+*.a
+*.compiled
+*.dcu
+*.o
+*.obj
+*.or
+*.ppu
+*.res
+
+# IDE generated files
+*.bak
+*.lps
+backup/
+*.~*
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# OS files
+.DS_Store
+Thumbs.db
